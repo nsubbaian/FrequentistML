@@ -13,5 +13,5 @@ Sections to Read:
 - part 2 section 5 --> http://cs229.stanford.edu/notes/cs229-notes1.pdf
 
 - 7.1, 7.2, 7.3, 7.10
-- 9.2, all of chapter 10 (sorry) and https://arxiv.org/pdf/1603.02754v3.pdf
+- 9.2, all of chapter 10 and https://arxiv.org/pdf/1603.02754v3.pdf
 
