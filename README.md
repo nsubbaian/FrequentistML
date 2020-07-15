@@ -19,7 +19,7 @@ Code in Google Colab for this semester: https://colab.research.google.com/
 | 3     |   part 2 section 5 --> http://cs229.stanford.edu/notes/cs229-notes1.pdf     |
 | 4     |   Q&A                                                                       |
 | 5     |   7.1, 7.2, 7.3, 7.10                                                       |
-| 6     |     9.2, all of chapter 10 and https://arxiv.org/pdf/1603.02754v3.pdf       |
+| 6     |     9.2, https://arxiv.org/pdf/1603.02754v3.pdf,  boosting: Sections 10.1, 10.6, 10.7,  10.9, 10.10     |
 | 7     |            |
 | 8     |            |
 | 9     |            |
