@@ -1,9 +1,13 @@
 # FrequentistML
 
-Good sources of data for the projects
+### Textbook:  
+https://web.stanford.edu/~hastie/ElemStatLearn/download.html
+
+### Good sources of data for the projects
 - https://www.kaggle.com/datasets
 - http://archive.ics.uci.edu/ml/
 - http://www.kdd.org/kdd-cup
+
 
 Code in Google Colab for this semester: https://colab.research.google.com/
 
