@@ -20,7 +20,7 @@ Code in Google Colab for this semester: https://colab.research.google.com/
 | 4     |   Q&A                                                                       |
 | 5     |   7.1, 7.2, 7.3, 7.10                                                       |
 | 6     |     9.2, https://arxiv.org/pdf/1603.02754v3.pdf,  boosting: Sections 10.1, 10.6, 10.7,  10.9, 10.10     |
-| 7     |            |
+| 7     |     https://medium.com/@gabrieltseng/gradient-boosting-and-xgboost-c306c1bcfaf5       |
 | 8     |            |
 | 9     |            |
 | 10    |            |
