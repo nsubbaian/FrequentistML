@@ -10,6 +10,7 @@ Grab a binary classification dataset from UCI or other repository.
 - Implement SGD with regularization, select the best lambda parameter using the validation dataset, and report your % correct on the test dataset.
 
 Plot the likelihood function with respect to iterations for unregularized and regularized on one set of axes. Which one converges to a higher likelihood, and why?
+
 Optional, advanced things to try:
 - Implement SGD with the L-1 penalty and use it for feature selection (it is not that hard actually)
 - Compare SGD to Newton-Raphson by plotting the likelihood of both on one set of axes and explain why they are different.
