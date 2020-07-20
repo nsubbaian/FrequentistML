@@ -22,8 +22,8 @@ Code in Google Colab for this semester: https://colab.research.google.com/
 | 6     |     9.2, https://arxiv.org/pdf/1603.02754v3.pdf,  boosting: Sections 10.1, 10.6, 10.7,  10.9, 10.10     |
 | 7     |     https://medium.com/@gabrieltseng/gradient-boosting-and-xgboost-c306c1bcfaf5       |
 | 8     |     Q&A + Code Review        |
-| 9     |            |
-| 10    |            |
+| 9     |   15.1 - 15.3         |
+| 10    |    collab_filtering.pdf, matrixFactorization.pdf        |
 | 11    |            |
 | 12    |            |
 | 13    |            |
