@@ -24,8 +24,8 @@ Code in Google Colab for this semester: https://colab.research.google.com/
 | 8     |     Q&A + Code Review        |
 | 9     |   15.1 - 15.3         |
 | 10    |    collab_filtering.pdf, matrixFactorization.pdf        |
-| 11    |            |
+| 11    |    ch 11 in machine_learning_in_action.pdf           |
 | 12    |            |
-| 13    |            |
+| 13    |         |
 | 14    |            |
 | 15    |            |
