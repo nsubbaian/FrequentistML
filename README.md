@@ -7,6 +7,7 @@ https://web.stanford.edu/~hastie/ElemStatLearn/download.html
 - https://www.kaggle.com/datasets
 - http://archive.ics.uci.edu/ml/
 - http://www.kdd.org/kdd-cup
+- https://opendata.cityofnewyork.us/
 
 
 Code in Google Colab for this semester: https://colab.research.google.com/
@@ -25,7 +26,7 @@ Code in Google Colab for this semester: https://colab.research.google.com/
 | 9     |   15.1 - 15.3         |
 | 10    |    collab_filtering.pdf, matrixFactorization.pdf        |
 | 11    |    ch 11 in machine_learning_in_action.pdf           |
-| 12    |            |
-| 13    |         |
-| 14    |            |
-| 15    |            |
+| 12    |    code review and questions         |
+| 13    |    code review and questions         |
+| 14    |    code review and questions         |
+| 15    |    code review and questions         |
